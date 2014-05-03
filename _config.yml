@@ -1,0 +1,9 @@
+markdown: rdiscount
+pygments: true
+baseurl: /anonym-mail
+title: Anonymized Mail
+mypages:
+ - name: Home
+   url: /
+ - name: Blog
+   url: /blog.html
