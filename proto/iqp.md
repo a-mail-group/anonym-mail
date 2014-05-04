@@ -63,6 +63,8 @@ The server will respond with:
 
 <code>S: OK</code>
 
+<code>S: EXP 2014/02/01_01:00:00</code>
+
 <code>S: +GXk5gCEzILSCYhY3nooIXvSDNu1vJGMg+YsT3aCu48=</code>
 
 or with:
