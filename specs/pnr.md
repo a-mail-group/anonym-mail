@@ -21,7 +21,7 @@ This document describes the names and the JSON structure, served by the S.I.P. d
 
 ### "amail.push"
 
-this is a query for a push server
+this is a query for the PUSH server port
 
 {% highlight javascript %}
 {
@@ -37,4 +37,11 @@ this is a query for a push server
 * vsep_port: optional for vsep-encrypted PUSH-protocol
 * vsep_key: optional for vsep-key
 
+<br/>
+
+### "amail.iqp"
+
+this is a query for the IQP server port
+
+the result is similar to that of "amail.push"
 
